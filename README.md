@@ -79,6 +79,12 @@ The model is compiled with the loss, optimizer and metrics. Callback functions a
 
 To predict the letters depicted in sign language real-time, we need to preprocess the captured frame in real time. We crop the image, resize it and perform the same preprocessing to the captured image as the preprocessing applied to original images. After which we run it through the CNN model and print the predicted alphabet on the camera frame. 
 
+## Credits 
+
+1. [Project1](https://github.com/imRishabhGupta/Indian-Sign-Language-Recognition)
+2. [Project2](https://github.com/Arshad221b/Sign-Language-Recognition)
+3. [Post1](https://medium.com/swlh/hand-gestures-using-webcam-and-cnn-convoluted-neural-network-b02c47b3d5ab)
+
 
 
 
