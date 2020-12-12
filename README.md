@@ -40,7 +40,7 @@ Now, ```pip install``` the following dependencies:
 
 ### Using the saved model *islcnnmodel.h5*
 
-1. Run ***Camera_Interface.ipynb*** to open live video capture. Predict in real time using alphabet hand gestures of the ISL.
+1. Run ***Camera_Interface.ipynb*** to open live video capture. Predict in real time using alphabet hand gestures of the ISL. Use ***Esc+Q*** to close the camera frames. 
 
 ### To create a new model from scratch
 
@@ -58,7 +58,7 @@ preprocesses the images and stores them in the alphabet folder-wise manner.
 
 1. Run ***ISL_CNN.ipynb*** to create a new CNN model using the preprocessed images. CNN parameters may be changed according to your requirements. 
 The model automatically creates a saved model named 'islcnnmodel1.h5'.
-2. Load the model in ***Camera_Interface.ipynb*** and run to open live video capture. Predict in real time using alphabet hand gestures of the ISL.
+2. Load the model in ***Camera_Interface.ipynb*** and run to open live video capture. Predict in real time using alphabet hand gestures of the ISL. Use ***Esc+Q*** to close the camera frames.
 
 ## Workflow
 
