@@ -4,16 +4,16 @@ The project achieves recognition of Indian Sign Language using hand gestures fro
 
 ## Introduction 
 
-A gesture is a pattern which may be static, dynamic or both, and is a form of non verbal communication in which bodily motions convey information. Sign language is composed of visual gestures and signs, which are used by deaf and mute for their talking and communication. It is a well-structured code gesture where every sign has a specific meaning allotted to it. These signs are not only used for alphabets or numeric but also for common expressions like greetings and sentences. 
+A gesture is a pattern which may be static, dynamic or both, and is a form of non verbal communication in which bodily motions convey information. Sign language is composed of visual gestures and signs, which are used by disabled people (typically people with a hearing/speech impairment) for their communication. It is a well-structured code gesture where every sign has a specific meaning allotted to it. These signs are not only used for alphabets or numeric but also for common expressions like greetings and sentences. 
 
 Communication is an important aspect when it comes to sharing or expressing information, feelings, and it brings people closer to each other with better understanding. 
-When it comes to disabled persons, it becomes tougher for them to communicate using natural language. They use Sign Language to communicate among themselves and with the entire world. There are 143 existing different sign languages all over the world, mainly American Sign Language (ASL), British Sign Language, French Sign Language, Japanese Sign Language, and Indian Sign Language (ISL). 
+When it comes to disabled persons, it becomes tougher for them to communicate using natural language. They often use Sign Language as their preferred means of communication. There are 143 existing different sign languages all over the world, mainly American Sign Language (ASL), British Sign Language, French Sign Language, Japanese Sign Language, and Indian Sign Language (ISL). 
 
-However, normal people find it difficult to understand sign language as they do not have mostly any prior education or experience in this. 
-To spread awareness about sign language in our country, this project implements a real-time recognition of the Indian Sign Language. 
+However, non-disabled people find it difficult to understand sign language as they do not have mostly any prior education or experience in recognizing signs. 
+To spread awareness about sign language in our country, this project implements a real-time recognition of Indian Sign Language. 
 Unlike its American counterpart which uses one hand, ISL uses a combination of one or two hands to represent alphabets. 
-Because of this reason, there is less research and development in this field. 
-This project goal is to take the simple step in connecting the social and communication bridge between regular people and the disabled people with the help of Indian Sign Language.
+Because of this reason, there tends to be lesser research and development in this field. 
+The project aims to take a step forward towards reducing the communication gap between users and non-users of the Indian Sign Language.
 
 ### ISL Alphabets and Numbers
 
